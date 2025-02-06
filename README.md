@@ -58,9 +58,13 @@ By implementing this system, we aim to prevent accidents caused by drowsy drivin
 ## 🚀 Expected Benefits
 - **Enhanced Driver Safety**: Prevents accidents caused by drowsy driving.
 - **Integrated Alert System**: Utilizes visual, auditory, and haptic feedback for effective warnings.
-- **Android Compatibility**: Enables seamless integration with Android smartphones for real-time monitoring.
 - **Automatic Music Playback**: Helps keep the driver awake by playing music upon drowsiness detection.
 - **Optimized Embedded System**: Uses a lightweight model for real-time analysis.
+
+## 🏗 Future Improvements
+- Enhance accuracy by training the model with additional datasets.
+- Improve smartphone app with additional UI features.
+- Incorporate vehicle interior environment data (temperature, lighting, etc.).
 
 ## 📜 License
 MIT License
